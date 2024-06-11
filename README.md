@@ -4,14 +4,16 @@ Infer arm angles in MLB pitchers using their height, release height, and release
 
 ## Example Plots
 
-### Tyler Rogers Arm Angle
-![Tyler Rogers Arm Angle](example_plots/RogersArmAngle.png)
-
 ### Tampa Bay Rays Bullpen
 ![Tampa Bay Rays Bullpen](example_plots/RaysBullpen.png)
 
 ### Skenes Adjusted Arm Angle
 ![Skenes Adjusted Arm Angle](example_plots/SkenesAdjusted.png)
+
+### Tyler Rogers Arm Angle
+![Tyler Rogers Arm Angle](example_plots/RogersArmAngle.png)
+
+
 
 
 
