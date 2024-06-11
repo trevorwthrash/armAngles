@@ -7,7 +7,7 @@ This repo works to infer arm angles in MLB pitchers using their height, release 
 ### Tampa Bay Rays Bullpen
 ![Tampa Bay Rays Bullpen](example_plots/RaysBullpen.png)
 
-### Skenes Adjusted Arm Angle
+### Skenes Arm Angle Adjusted Movement
 ![Skenes Adjusted Arm Angle](example_plots/SkenesAdjusted.png)
 
 ### Tyler Rogers Arm Angle
