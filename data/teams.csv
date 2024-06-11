@@ -1,0 +1,31 @@
+id,name,teamCode,fileCode,abbreviation,locationName,shortName
+133,Oakland Athletics,oak,oak,OAK,Oakland,Oakland
+134,Pittsburgh Pirates,pit,pit,PIT,Pittsburgh,Pittsburgh
+135,San Diego Padres,sdn,sd,SD,San Diego,San Diego
+136,Seattle Mariners,sea,sea,SEA,Seattle,Seattle
+137,San Francisco Giants,sfn,sf,SF,San Francisco,San Francisco
+138,St. Louis Cardinals,sln,stl,STL,St. Louis,St. Louis
+139,Tampa Bay Rays,tba,tb,TB,St. Petersburg,Tampa Bay
+140,Texas Rangers,tex,tex,TEX,Arlington,Texas
+141,Toronto Blue Jays,tor,tor,TOR,Toronto,Toronto
+142,Minnesota Twins,min,min,MIN,Minneapolis,Minnesota
+143,Philadelphia Phillies,phi,phi,PHI,Philadelphia,Philadelphia
+144,Atlanta Braves,atl,atl,ATL,Atlanta,Atlanta
+145,Chicago White Sox,cha,cws,CWS,Chicago,Chi White Sox
+146,Miami Marlins,mia,mia,MIA,Miami,Miami
+147,New York Yankees,nya,nyy,NYY,Bronx,NY Yankees
+158,Milwaukee Brewers,mil,mil,MIL,Milwaukee,Milwaukee
+108,Los Angeles Angels,ana,ana,LAA,Anaheim,LA Angels
+109,Arizona Diamondbacks,ari,ari,AZ,Phoenix,Arizona
+110,Baltimore Orioles,bal,bal,BAL,Baltimore,Baltimore
+111,Boston Red Sox,bos,bos,BOS,Boston,Boston
+112,Chicago Cubs,chn,chc,CHC,Chicago,Chi Cubs
+113,Cincinnati Reds,cin,cin,CIN,Cincinnati,Cincinnati
+114,Cleveland Guardians,cle,cle,CLE,Cleveland,Cleveland
+115,Colorado Rockies,col,col,COL,Denver,Colorado
+116,Detroit Tigers,det,det,DET,Detroit,Detroit
+117,Houston Astros,hou,hou,HOU,Houston,Houston
+118,Kansas City Royals,kca,kc,KC,Kansas City,Kansas City
+119,Los Angeles Dodgers,lan,la,LAD,Los Angeles,LA Dodgers
+120,Washington Nationals,was,was,WSH,Washington,Washington
+121,New York Mets,nyn,nym,NYM,Flushing,NY Mets
